@@ -13,5 +13,4 @@ build/
 
 # Ignore environment variables file
 .env
-
-.csv
+.csv        
