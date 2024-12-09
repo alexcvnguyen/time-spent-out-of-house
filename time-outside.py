@@ -54,4 +54,4 @@ data, first_date, last_date = read_csv(filename)
 total_seconds_out = calculate_time_out(data)
 hours, minutes, seconds = format_time(total_seconds_out)
 
-print(f"In the last 7 days, I've spent: {hours} hours, {minutes} minutes, {seconds} seconds" out of my house)
+print(f"In the last 7 days, I've spent: {hours} hours, {minutes} minutes, {seconds} seconds out of my house")
